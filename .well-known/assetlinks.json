@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.yaqoob.jungledash",
+        "sha256_cert_fingerprints": ["28:E6:C2:B9:AA:DB:A2:0C:8A:59:31:C6:5F:78:B9:AE:38:A9:2D:41:B9:05:97:84:D7:93:18:09:C9:A7:F3:0A"]
+      }
+    }]
